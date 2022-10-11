@@ -6,7 +6,7 @@ let count = 0;
 
 for (let letter of args2) {
   if ('aeiou'.includes(letter)) {
-      count++;
+    count++;
   }
 }
 
